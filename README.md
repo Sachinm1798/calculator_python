@@ -1,1 +1,1 @@
-This is the python program for calculator project
+ Python code for calculator project
