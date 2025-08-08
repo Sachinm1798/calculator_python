@@ -23,4 +23,4 @@ def equal():
     except:
         tk.messagebox.showinfo("Error", "Syntax Error")
 
-win.mainloop()  
+win.mainloop()
